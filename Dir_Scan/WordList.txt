@@ -1,0 +1,9 @@
+admin
+login
+index.php
+robots.txt
+upload
+images
+backup
+test
+api
